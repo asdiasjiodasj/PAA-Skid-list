@@ -1,3 +1,3 @@
 local skids = {
-    ['NAME'] = "REASON"
+    ['NAME'] = "REASON";
 }
