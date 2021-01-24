@@ -1,0 +1,3 @@
+local skids = {
+    name = "SKIDNAME";
+}
