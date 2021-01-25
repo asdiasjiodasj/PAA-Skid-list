@@ -47,7 +47,7 @@ local skids = {
     ['gabethememe6'] = "admitted to freesploits";
     ['curryfan1067'] = "downloaded jjsploit";
     ['sarjentx44'] = "1punch go brrr, also tp, respawn, jj, and toxicisity";
-    [''0Boy0_Master0] = "Hathub";
+    ['0Boy0_Master0'] = "Hathub";
     ['donutlover11221221'] = "uses krnl, prison destroyer and prison breaker and is completely retarded.";
     ['AnneFrankBurnedAlive'] = "jjsploit with prison breaker also using raypart gunmods";
     ['BlackKorbloxDeath'] = "jjsploit";
@@ -84,3 +84,5 @@ local skids = {
     ['IcyR0BL0X'] = "jjsploit killaura and fly";
     ['error_man010101'] = "prison destroyer";
     }
+
+return skids
